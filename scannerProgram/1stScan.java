@@ -28,7 +28,7 @@ float hmI = dmI/24;
 float mmI = hmI/60;
 System.out.println("Your income is " + "$" +mmI + "/minute" );
 System.out.println("I divided your annual income by 365 days to get the daily income, then I divided your daily income by 24 hours to get the hourly income." );
-System.out.println("Finally, I divided your hourly income by 60 minutes to get the per- minute income. Which is " + mmI + "/minute");
+System.out.println("Finally, I divided your hourly income by 60 minutes to get the per- minute income. Which is "+ "$" +mmI + "/minute");
 
 
 

@@ -6,7 +6,7 @@ class ifElse
 {
 
 Scanner numInput = new Scanner(System.in);
-System.out.println("Please type a number:");
+c
 int number = numInput.nextInt();
 
 int output = number % 2;
@@ -23,8 +23,6 @@ else
 }
 
 }
-
-
 
 
 
